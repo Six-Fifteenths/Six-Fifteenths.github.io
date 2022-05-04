@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sixfifteenths.github.io</id>
+    <id>https://six-fifteenths.github.io</id>
     <title>Gridea</title>
-    <updated>2022-05-04T07:56:26.567Z</updated>
+    <updated>2022-05-04T08:48:23.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://sixfifteenths.github.io"/>
-    <link rel="self" href="https://sixfifteenths.github.io/atom.xml"/>
+    <link rel="alternate" href="https://six-fifteenths.github.io"/>
+    <link rel="self" href="https://six-fifteenths.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://sixfifteenths.github.io/images/avatar.png</logo>
-    <icon>https://sixfifteenths.github.io/favicon.ico</icon>
+    <logo>https://six-fifteenths.github.io/images/avatar.png</logo>
+    <icon>https://six-fifteenths.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[啊大家好]]></title>
-        <id>https://sixfifteenths.github.io/post/tobeginwith/</id>
-        <link href="https://sixfifteenths.github.io/post/tobeginwith/">
-        </link>
-        <updated>2022-05-04T07:54:36.000Z</updated>
-        <content type="html"><![CDATA[<p>那我走</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://sixfifteenths.github.io/post/hello-gridea/</id>
-        <link href="https://sixfifteenths.github.io/post/hello-gridea/">
+        <id>https://six-fifteenths.github.io/post/hello-gridea/</id>
+        <link href="https://six-fifteenths.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
