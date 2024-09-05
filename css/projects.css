@@ -45,7 +45,7 @@
     line-height: 1;
     margin-bottom: 8px;
     white-space: nowrap;
-    overflow: hidden;
+    overflow: visible;
     text-overflow: ellipsis;
   }
   #icat-equipment .equipment .icat-equipment-box .icat-equipment-content .icat-equipment-custom {
@@ -65,7 +65,7 @@
     overflow: hidden;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
-    margin-bottom: 16px;
+    margin-bottom: 0px;
   }
   #icat-equipment .equipment .icat-equipment-box .icat-equipment-content .icat-equipment-box-more {
     display: flex;
