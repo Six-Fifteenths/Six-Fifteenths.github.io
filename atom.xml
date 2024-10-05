@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>十五分之六</title>
+  
+  <subtitle>循此苦旅，直抵群星</subtitle>
+  <link href="https://six-fifteenths.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://six-fifteenths.github.io/"/>
+  <updated>2024-10-05T09:37:35.248Z</updated>
+  <id>https://six-fifteenths.github.io/</id>
+  
+  <author>
+    <name>SixFifteenths[Stellar]</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记2024北京大学“飞测”经历</title>
+    <link href="https://six-fifteenths.github.io/1/"/>
+    <id>https://six-fifteenths.github.io/1/</id>
+    <published>2024-10-05T08:37:06.000Z</published>
+    <updated>2024-10-05T09:37:35.248Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
