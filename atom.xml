@@ -6,7 +6,7 @@
   <link href="https://six-fifteenths.github.io/atom.xml" rel="self"/>
   
   <link href="https://six-fifteenths.github.io/"/>
-  <updated>2024-10-09T12:31:20.495Z</updated>
+  <updated>2024-10-11T10:40:50.419Z</updated>
   <id>https://six-fifteenths.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>P-2 Aster</title>
+    <link href="https://six-fifteenths.github.io/P-2/"/>
+    <id>https://six-fifteenths.github.io/P-2/</id>
+    <published>2024-10-10T17:29:24.000Z</published>
+    <updated>2024-10-11T10:40:50.419Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="c31400c21ea3dc75142e897769e78daeda66e8b5a5b530115fcba156eed5fe70">d8104188daff8cd35d3fc46d5751860dfd949c203dcfdf3f4473372fe8abe19c</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">如果你设了密码那么可以用这个来嘲讽。</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">这是一段描述。很长。</summary>
+    
+    
+    
+    <category term="这是一些分类。可以嵌套。" scheme="https://six-fifteenths.github.io/categories/%E8%BF%99%E6%98%AF%E4%B8%80%E4%BA%9B%E5%88%86%E7%B1%BB%E3%80%82%E5%8F%AF%E4%BB%A5%E5%B5%8C%E5%A5%97%E3%80%82/"/>
+    
+    <category term="这是次一等的，还可以往后。" scheme="https://six-fifteenths.github.io/categories/%E8%BF%99%E6%98%AF%E4%B8%80%E4%BA%9B%E5%88%86%E7%B1%BB%E3%80%82%E5%8F%AF%E4%BB%A5%E5%B5%8C%E5%A5%97%E3%80%82/%E8%BF%99%E6%98%AF%E6%AC%A1%E4%B8%80%E7%AD%89%E7%9A%84%EF%BC%8C%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%BE%80%E5%90%8E%E3%80%82/"/>
+    
+    
+    <category term="生活" scheme="https://six-fifteenths.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>P-1 记2024北京大学“飞测”</title>
